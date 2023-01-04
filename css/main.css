@@ -144,6 +144,7 @@ img{
 .iconos{
     padding: var(--separacion) 0;
 }
+
 @media (min-width: 768px) { 
     .iconos{
         display: grid;
@@ -159,6 +160,7 @@ img{
     text-align: justify; 
     margin-bottom:  calc(var(--separacion)/2);
 }
+
 @media (min-width: 768px) { 
     .icono{
         margin: 0;
@@ -192,6 +194,7 @@ img{
     .sobre-tech{
         background-image: linear-gradient(to left, transparent 50%, var(--primario) 0%), url(../img/imagen-mujer.jpg);
         background-repeat: repeat, no-repeat;
+        background-size: 100%, 110rem;
     }
 }
 
