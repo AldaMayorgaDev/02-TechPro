@@ -34,11 +34,12 @@ _Las técnologias utilizadas para el desarrollo fueron:_
 
 ## Vista previa del proyecto 👀 
 
-* 👀  [Proyecto](https://aldamayorgadev.github.io/01-ecommerMuebleria/)
+* 👀  [Proyecto](https://aldamayorgadev.github.io/02-TechPro/)
 
 
 ## Reporte de Lighthouse 💡 
 
+<img width="927" alt="Captura de Pantalla 2023-01-04 a la(s) 2 08 40" src="https://user-images.githubusercontent.com/94152243/210510870-b57d7589-7aae-44fa-97d9-e575b2e20daa.png">
 
 
 
