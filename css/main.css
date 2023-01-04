@@ -409,3 +409,22 @@ img{
     font-weight: 900;
     border: none;
 }
+
+/* footer */
+footer{
+    margin-top: 10rem;
+    max-width: 100%;
+    height: 10rem;
+    background-color: var(--primario);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer p{
+    text-align: center;
+    font-family:  var(--fuenteSecundaria);
+    font-size: 1.6rem;
+    color: var(--blanco);
+
+}
